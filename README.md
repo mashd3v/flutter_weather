@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
+| <img src="https://user-images.githubusercontent.com/65097437/87359506-8db6f780-c52d-11ea-8a9c-53123d6aae91.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/65097437/87359508-8e4f8e00-c52d-11ea-96cb-8a600629dccb.jpg" width="250"> |
 
-A few resources to get you started if this is your first Flutter project:
+| <img src="https://user-images.githubusercontent.com/65097437/87359515-90195180-c52d-11ea-9891-15c339a0248a.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/65097437/87359520-91e31500-c52d-11ea-8f9f-ec9dcf217183.jpg" width="250"> |
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## API
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OpenWeather was used as a weather API to get live data for this app
+
+For more info visit: 
+https://openweathermap.org/api
